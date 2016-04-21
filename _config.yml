@@ -1,0 +1,28 @@
+name: Neuropia
+favicon: null
+layout_spectrum: 0.7492596202064306
+typography_spectrum: 0.0975510822609067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.022519397782161832
+  lightness: 0.8229012272786349
+  saturation: 0.7351671394426376
+  rhythmicContrast: 0.03854545881040394
+purpose: []

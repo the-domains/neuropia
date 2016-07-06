@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Neuropia]]></title>
         <description><![CDATA[Neuropia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neuropia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 20:32:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 02:44:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neuropia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test the grid </p>]]></description>
+            <link>https://thegrid.ai/neuropia/test-the-grid/index.html</link>
+            <guid isPermaLink="false">cd127dee-0b5b-471a-874b-1869132228f6</guid>
+            <pubDate>Wed, 06 Jul 2016 02:44:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Neuroscience, data science, </p>]]></description>
-            <link>undefinedneuroscience-data-science/index.html</link>
+            <link>https://thegrid.ai/neuropia/neuroscience-data-science/index.html</link>
             <guid isPermaLink="false">89ceb9cd-69de-4807-be0a-ac0a14e62249</guid>
             <pubDate>Thu, 21 Apr 2016 20:32:03 GMT</pubDate>
         </item>
